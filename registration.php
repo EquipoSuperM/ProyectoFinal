@@ -30,10 +30,15 @@
                 <div class="col-xs-12 col-sm-6">
                    <br><br>
                     <div id="container-form">
-                   <center> <h1>SuperM<span class="note">.com</span> </h1></center>
+                   <center> <h1>SuperM<span class="note">.com</span> </></center>
                        <br><br>
                        <form class="form-horizontal FormCatElec" action="process/regclien.php" role="form" method="post" data-form="save">
-                         
+                           <div class="form-group">
+                              <div class="input-group">
+                                <div class="input-group-addon"><i class="fa fa-credit-card"></i></div>
+                                <input class="form-control all-elements-tooltip" type="text" placeholder="Ingrese su número de NIT" required name="clien-nit" data-toggle="tooltip" data-placement="top" title="Ingrese su número de NIT. Solamente números y guiones(-)" maxlength="30" pattern="[0-9-]{14,30}">
+                              </div>
+                            </div>
                             <br>
                             <div class="form-group">
                               <div class="input-group">

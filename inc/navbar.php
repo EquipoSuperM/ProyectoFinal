@@ -5,6 +5,12 @@
         $_SESSION['contador'] = 0;
     }
 ?>
+ <style>
+        span.note{
+           font-size: 120%; 
+           color: #F1042C;
+        }
+    </style> 
 <section id="container-carrito-compras">
     <div class="container">
         <div class="row">
