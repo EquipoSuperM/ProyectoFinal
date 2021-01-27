@@ -25,7 +25,7 @@ nav{
     width: 100%;
     position: fixed;
     top: 0px;
-    background-color: rgba(61, 3, 3,.9);
+    background-color: #FFD856;
     box-shadow: 2px 0px 7px #000;
 	z-index: 50;
 }
@@ -42,13 +42,14 @@ nav{
 	color: #fff;
 }
 .contenedor-tr > a:hover{
-	background-color: rgba(173, 0, 0,.7);
+	background-color: #FFD856;
     transition: background-color .4s ease-in;
     -moz-transition: background-color .4s ease-in;
     -webkit-transition: background-color .4s ease-in;
     -ms-transition: background-color .4s ease-in;
     -o-transition: background-color .4s ease-in;
 }
+
 .contenedor-tr > a:last-child{
 	border-right: 1px solid rgba(149, 165, 166,0.8);
 }
@@ -92,7 +93,7 @@ article{
 footer{
     width: 100%;
     color: #fff;
-    background-color: rgba(61, 3, 3,1);
+    background-color: #FFD856;
     padding: 40px 0px;
 }
 .social-icon{
@@ -128,7 +129,7 @@ footer{
     padding: 20px;
 }
 #container-carrito-compras{
-   background-color: rgb(43, 29, 29);
+    background-color: #FFD856;
    color:#fff;
    display: none;
 }
@@ -140,7 +141,7 @@ footer{
     margin: 0px;
     padding: 140px 25px;
     color: #fff;
-    background-color: rgba(0,0,0,.7);
+    background-color: #FFD856;
 }
 #new-prod-index{
     background-color: rgba(255,255,255,.9);

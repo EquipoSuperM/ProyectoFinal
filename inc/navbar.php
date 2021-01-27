@@ -106,7 +106,7 @@
           <div class="modal-content" id="modal-form-login">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                  <h4 class="modal-title text-center text-primary" id="myModalLabel">Iniciar sesión en Cat Electronics</h4>
+                  <h4 class="modal-title text-center text-primary" id="myModalLabel">Iniciar sesión en Super M</h4>
                 </div>
             <form action="process/login.php" method="post" role="form" style="margin: 20px;" class="FormCatElec" data-form="login">
                   <div class="form-group">
