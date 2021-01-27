@@ -26,8 +26,8 @@
 <nav id="navbar-auto-hidden">
         <div class="row hidden-xs"><!-- Menu computadoras y tablets -->
             <div class="col-xs-4">
-                <figure class="logo-navbar"></figure>
-                <p class="text-navbar tittles-pages-logo">Cat Electronics</p>
+               
+                <h1>SuperM<span class="note">.com</span> </h1> 
             </div>
             <div class="col-xs-8">
                 <div class="contenedor-tabla pull-right">

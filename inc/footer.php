@@ -18,5 +18,5 @@
         </a>
     </ul>
     <br><br><br>
-    <h5 class="text-center tittles-pages-logo">Cat Electronics &copy; 2016</h5>
+    <h5 class="text-center tittles-pages-logo">SUPERM &copy; Yaretzi - Nancy</h5>
 </footer>

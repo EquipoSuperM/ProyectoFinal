@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+<style>
+        span.note{
+           font-size: 120%; 
+           color: #F1042C;
+        }
+    </style>  
     <title>Registro</title>
     <?php include './inc/link.php'; ?>
 </head>
@@ -10,7 +16,7 @@
         <div class="container">
             <div class="row">
                 <div class="page-header">
-                  <h1>Registro de usuarios <small class="tittles-pages-logo">Cat Electronics</small></h1>
+                <h1>SuperM<span class="note">.com</span> </h1>
                 </div>
                 <div class="col-xs-12 col-sm-6 text-center">
                    <br><br><br>

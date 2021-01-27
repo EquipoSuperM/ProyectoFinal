@@ -15,7 +15,7 @@
     <section id="prove-product-cat-config">
         <div class="container">
             <div class="page-header">
-              <h1>Panel de administración <small class="tittles-pages-logo">Cat </small></h1>
+              <h1>Panel de administración <small class="tittles-pages-logo">SuperM </small></h1>
             </div>
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
