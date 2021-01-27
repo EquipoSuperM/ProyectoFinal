@@ -32,8 +32,12 @@
 <nav id="navbar-auto-hidden">
         <div class="row hidden-xs"><!-- Menu computadoras y tablets -->
             <div class="col-xs-4">
-               
+
                 <h1>SuperM<span class="note">.com</span> </h1> 
+
+                <figure class="logo-navbar"></figure>
+                <p class="text-navbar tittles-pages-logo">Super M</p>
+
             </div>
             <div class="col-xs-8">
                 <div class="contenedor-tabla pull-right">

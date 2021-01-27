@@ -18,5 +18,9 @@
         </a>
     </ul>
     <br><br><br>
+
     <h5 class="text-center tittles-pages-logo">SUPERM &copy; Yaretzi - Nancy</h5>
+
+    <h5 class="text-center tittles-pages-logo">Super M &copy; 2021</h5>
+
 </footer>

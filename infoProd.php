@@ -1,10 +1,4 @@
-<!--====================================
-     Designer and developers
- -Ismael López Mejía: Developer
- -Luis Alfredo Hernández: Developer
- -Carlos Eduardo Alfaro: Designer
-************CopyRight 2014****************
-=======================================-->
+
 <?php
 include './library/configServer.php';
 include './library/consulSQL.php';
@@ -27,7 +21,11 @@ include './library/consulSQL.php';
         <div class="container">
             <div class="row">
                 <div class="page-header">
+
                 <h1>SuperM<span class="note">.com</span> </h1> 
+
+                    <h1>Tienda <small class="tittles-pages-logo">Super M</small></h1>
+
                 </div>
                 <?php 
                     $CodigoProducto=$_GET['CodigoProd'];
